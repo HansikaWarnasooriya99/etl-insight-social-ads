@@ -36,7 +36,7 @@ This project demonstrates a complete ETL (Extract → Transform → Load) pipeli
 
 ## 📂 Files
 
-- `etl_insight_social_ads.ipynb`: Full Colab notebook
+- `📊 ETL & Insight Project.ipynb`: Full Colab notebook
 - `cleaned_social_ads.csv`: Cleaned and transformed dataset
 - `social_ads.db`: SQLite version of the data (bonus)
 - `README.md`: Project description and explanation
